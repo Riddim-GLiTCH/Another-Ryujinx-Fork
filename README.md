@@ -9,8 +9,12 @@
 </h1>
 
 <h1 align="center">
-  ⚠ THIS IS AN UNOFFICIAL FORK OF RYUJINX ⚠
+  ⚠ THIS IS AN UNOFFICIAL FORK OF RYUJINX ⚠  <br />
 </h1>
+<p align="center">
+  This fork Solely exists for the sake of preservation. The source code will not be modified or updated.<br />
+  I will not publish binaries.<br />
+</p>
 
 <p align="center">
   Ryujinx is an open-source Nintendo Switch emulator, created by gdkchan, written in C#.
